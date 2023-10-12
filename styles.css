@@ -3,13 +3,18 @@ body{
 background-position: left;
 }
 h1{
-    color: blue;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: large;
-    font-weight: 500;
-    font-style: italic;
+    color: rgb(109, 9, 30);
+    font-size: x-large;
+    font-weight: 600;
 }
 #movie-poster{
     max-width: 35%;
     height: auto;
+}
+
+#btn{
+    padding: 8px;
+    margin-top: 20px;
+    width: 100px;
+    
 }
